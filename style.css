@@ -1,0 +1,17 @@
+html {
+    background: url(/Users/wesleykolar/Desktop/week5/day1/assignment1/somethingidk.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#buttonHolder{
+    text-align: center; 
+
+}
+#tempHeading {
+    background-color: white;
+    width: 400px; 
+	margin-left: auto; 
+	margin-right: auto; 
+}
